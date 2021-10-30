@@ -1,0 +1,8 @@
+1. ¿Quién inventó el sistema de control de versión Git y por qué?
+RTA: Git fue diseñado por Torvald con el proyecto de Linuz y el workflow de sus desarrolladores en mente, fue creado con la intención de gestionar proyectos grandes como el kernel sin problema. 
+
+2. ¿A quién pertenece actualmente Github y por qué?
+RTA: Git está actualmente supervisado por Junio Hamano, quien recibe contribuciones al código de alrededor de 280 programadores. En cuanto a derechos de autor Git es un software libre distribuible bajo los términos de la versión 2 de la Licencia Pública General de GNU.
+
+3. ¿Hay otra forma que no sea la terminal para trabajar con Github?
+RTA: No, parece que siempre debemos usar la terminar ya se la de VSCode o la del computador para trabajar en Github.
